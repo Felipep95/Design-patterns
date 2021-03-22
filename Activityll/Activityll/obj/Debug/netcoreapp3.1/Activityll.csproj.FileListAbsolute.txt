@@ -1,0 +1,13 @@
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.exe
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.deps.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.runtimeconfig.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.dll
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\bin\Debug\netcoreapp3.1\Activityll.pdb
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.dll
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.pdb
+C:\Users\Felipe\source\repos\Work-Design-Patterns\Activityll\Activityll\obj\Debug\netcoreapp3.1\Activityll.genruntimeconfig.cache
