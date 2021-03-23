@@ -1,0 +1,13 @@
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.exe
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.deps.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.runtimeconfig.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.dll
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\bin\Debug\netcoreapp3.1\ActivityIV.pdb
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.csprojAssemblyReference.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.dll
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.pdb
+C:\Users\Felipe\source\repos\Work-Design-Patterns\ActivityIV\ActivityIV\obj\Debug\netcoreapp3.1\ActivityIV.genruntimeconfig.cache
